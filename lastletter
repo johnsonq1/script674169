@@ -125,7 +125,7 @@ local UpdateList
 local ButtonCache = {}
 local ButtonData = {}
 local JoinDebounce = {}
-local thinkDelayMin = 0.4
+local thinkDelayMin = 0.01
 local thinkDelayMax = 1.2
 
 local listUpdatePending = false
